@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#title-bar {
+    height: 40pt;
+    background-color: black;
+}
+
+#title-bar #minimize-wrapper {
+    height: 40pt;
+    width: 40pt;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#title-bar #minimize {
+    height: 20pt;
+    width: 20pt;
+}
