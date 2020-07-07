@@ -20,7 +20,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^6.0.8",
+    "electron": "^7.2.4",
     "electron-debug": "^3.0.1",
     "electron-positioner": "^4.1.0",
     "html-webpack-plugin": "^3.2.0",
